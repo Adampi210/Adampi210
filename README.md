@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Piaseczny
-- 👀 I’m interested in Coding, Electrical and Computer Engineering, and BMIs
-- 🌱 I’m currently learning more advanced C and Python programming techniques
+- 👀 I’m interested in Cognitive AI, Federated Learning, and ML theory
+- 🌱 I’m currently improving my coding and math skills, also doing reasearch in FL.
 - 💞️ I’m looking to collaborate on sorts of projects
 - 📫 How to reach me - adampi210u@gmail.com
 
